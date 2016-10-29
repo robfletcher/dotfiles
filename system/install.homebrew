@@ -12,6 +12,7 @@ httpie
 httpstat
 jq
 lolcat
+mas
 md5sha1sum
 parallel
 pkgdiff

@@ -179,6 +179,12 @@ install_formulas () {
       brew_install $formula
     done
   done
+
+  for file in `dotfiles_find install.mas`; do
+    for formula in `cut -d' ' -f1 $file`; do
+      mas install $formula
+    done
+  done
 }
 
 brew_install () {
