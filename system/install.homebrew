@@ -1,6 +1,4 @@
-asciinema
-bash
-coreutils
+autojump
 curl
 ddate
 dos2unix
@@ -17,7 +15,6 @@ md5sha1sum
 parallel
 pkgdiff
 readline
-the_silver_searcher
 tree
 wget
 xmlstarlet
