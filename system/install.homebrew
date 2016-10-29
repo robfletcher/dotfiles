@@ -2,6 +2,7 @@ asciinema
 bash
 coreutils
 curl
+ddate
 dos2unix
 findutils
 fpp
