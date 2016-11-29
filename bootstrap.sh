@@ -181,9 +181,9 @@ install_formulas () {
   done
 
   for file in `dotfiles_find install.mas`; do
-    for formula in `cut -d' ' -f1 $file`; do
-      mas install $formula
-    done
+    while read line; do
+      mas_install $line
+    done < $file
   done
 }
 
@@ -194,6 +194,18 @@ brew_install () {
       success "installed $formula"
     else
       fail "failed to install $formula"
+    fi
+  fi
+}
+
+mas_install () {
+  formula=$1
+  name="${@:2}"
+  if ! mas list | grep -q $formula; then
+    if mas install $formula > /dev/null 2>&1; then
+      success "installed $name"
+    else
+      fail "failed to install $name"
     fi
   fi
 }
