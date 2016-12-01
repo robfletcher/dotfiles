@@ -9,6 +9,8 @@ cloc
 cmake
 dpkg
 gcc
+git
+graphviz
 gradle-completion
 groovy
 go
