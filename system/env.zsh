@@ -1,1 +1,1 @@
-export EDITOR="$(which atom)"
+export EDITOR="$(which code)"
