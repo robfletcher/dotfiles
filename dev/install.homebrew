@@ -8,6 +8,7 @@ ccache
 cloc
 cmake
 dpkg
+docker-compose
 gcc
 git
 graphviz
