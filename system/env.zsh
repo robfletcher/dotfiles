@@ -1,1 +1,1 @@
-export EDITOR="$(which code)"
+export EDITOR=vim
