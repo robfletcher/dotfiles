@@ -1,4 +1,2 @@
-export GROOVY_HOME=/usr/local/opt/groovy/libexec
-export GOPATH=~/Projects/go
-export PATH=$GROOVY_HOME/bin:$GOPATH/bin:$PATH
-
+export PATH=$PATH:$HOME/.cargo/bin
+export PATH="/usr/local/opt/python/libexec/bin:$PATH"
