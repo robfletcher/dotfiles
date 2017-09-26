@@ -3,7 +3,7 @@ curl
 ddate
 dos2unix
 findutils
-gpg
+gnupg
 grc
 httpie
 httpstat
