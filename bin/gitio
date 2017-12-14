@@ -1,5 +1,0 @@
-#!/bin/sh
-if [ "$#" -ne 2 ]; then
-  echo "Usage: gitio [url] [alias]"
-fi
-curl --silent -i https://git.io -F "url=$1" -F "code=$2" | grep Location
