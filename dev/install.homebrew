@@ -1,5 +1,3 @@
-android-sdk
-ant
 autoconf
 automake
 awscli
@@ -10,12 +8,12 @@ cmake
 dpkg
 docker-compose
 gcc
+gdub
 git
 graphviz
 gradle-completion
 groovy
 go
-jenv
 kotlin
 makedepend
 maven
