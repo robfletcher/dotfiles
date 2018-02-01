@@ -1,6 +1,7 @@
 autoconf
 automake
 awscli
+bashful
 bsdmake
 ccache
 cloc

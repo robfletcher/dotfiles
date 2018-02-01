@@ -1,1 +1,2 @@
-pip2 install --upgrade pip setuptools
+#!/bin/sh
+brew tap wagoodman/bashful
