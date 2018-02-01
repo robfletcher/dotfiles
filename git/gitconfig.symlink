@@ -122,14 +122,6 @@
 
     #grumble
     ffs = "!git all && git commit --amend"
-[push]
-	default = current
-[credential]
-    helper = osxkeychain
-[diff-so-fancy]
-    markEmptyLines = false
-[merge]
-    ff = only
 [color "diff-highlight"]
 	oldNormal = red bold
 	oldHighlight = red bold 52
