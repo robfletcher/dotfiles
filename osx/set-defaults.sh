@@ -43,3 +43,10 @@ defaults write -g AppleKeyboardUIMode -int 3
 # Set a fairly fast key repeat
 defaults write -g InitialKeyRepeat -int 15
 defaults write -g KeyRepeat -int 2
+
+# ------
+# Finder
+# ------
+
+# Display full path in Finder header
+defaults write com.apple.finder _FXShowPosixPathInTitle -bool true
