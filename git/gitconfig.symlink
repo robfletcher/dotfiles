@@ -4,6 +4,7 @@
     excludesfile = /Users/rfletcher/.gitignore_global
     pager = "diff-so-fancy | less --tabs=4 -RFX"
 	editor = micro
+	autocrlf = input
 [diff-so-fancy]
     markEmptyLines = false
 	first-run = false

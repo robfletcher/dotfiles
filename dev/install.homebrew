@@ -19,6 +19,9 @@ kotlin
 makedepend
 maven
 mercurial
+mkdocs
+mycli
+mysql
 node
 pkg-config
 postgresql
