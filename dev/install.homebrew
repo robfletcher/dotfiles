@@ -25,6 +25,7 @@ mysql
 node
 pkg-config
 postgresql
+protobuf
 pup
 python
 redis
