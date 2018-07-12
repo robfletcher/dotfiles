@@ -31,5 +31,6 @@ python
 redis
 ruby
 rust
+shellcheck
 travis
 yarn
