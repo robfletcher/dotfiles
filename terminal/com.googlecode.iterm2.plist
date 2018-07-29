@@ -8615,7 +8615,7 @@
 		</dict>
 	</dict>
 	<key>PrefsCustomFolder</key>
-	<string>/Users/rfletcher/.dotfiles/terminal</string>
+	<string>/Users/rfletcher/.dotfiles_public/terminal</string>
 	<key>PromptOnClose</key>
 	<true/>
 	<key>PromptOnQuit</key>
