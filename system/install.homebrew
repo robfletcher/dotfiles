@@ -1,4 +1,5 @@
 autojump
+bat
 bork
 coreutils
 curl
@@ -17,11 +18,13 @@ micro
 midnight-commander
 optipng
 pkgdiff
+prettyping
 proselint
 readline
 ripgrep
 roll
 thefuck
+tldr
 tree
 unrar
 wget

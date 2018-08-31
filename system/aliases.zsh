@@ -11,3 +11,6 @@ alias cd..="cd .."
 alias top="top -o cpu"
 
 alias tf="tail -f"
+
+alias cat="bat"
+alias prettyping='prettyping --nolegend'
