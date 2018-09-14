@@ -4,10 +4,10 @@ awscli
 bashful
 bsdmake
 ccache
+circleci
 cloc
 cmake
 dpkg
-docker-compose
 gcc
 gdub
 git
