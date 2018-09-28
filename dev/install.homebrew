@@ -32,5 +32,6 @@ redis
 ruby
 rust
 shellcheck
+tig
 travis
 yarn
