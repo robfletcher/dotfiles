@@ -7,6 +7,7 @@ ccache
 circleci
 cloc
 cmake
+docker-machine-driver-hyperkit
 dpkg
 gcc
 gdub
