@@ -21,6 +21,7 @@
 	ff = true
 [rebase]
     autosquash = true
+	autoStash = true
 [alias]
     aliases = config --get-regexp alias
 
