@@ -1,1 +1,2 @@
 EDITOR=micro
+KUBE_EDITOR=micro
