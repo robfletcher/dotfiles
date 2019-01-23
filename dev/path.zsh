@@ -5,5 +5,6 @@ export GOPATH=~/Projects/go
 export PATH=$PATH:$GOPATH/bin
 
 export JAVA_HOME=`/usr/libexec/java_home -v 1.8`
+export JDK_17=`/usr/libexec/java_home -v 1.7`
 export GROOVY_HOME=/usr/local/opt/groovy/libexec
 export PATH=$GROOVY_HOME/bin:$PATH
