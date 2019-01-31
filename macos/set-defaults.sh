@@ -50,10 +50,3 @@ defaults write -g KeyRepeat -int 2
 
 # Display full path in Finder header
 defaults write com.apple.finder _FXShowPosixPathInTitle -bool true
-
-# -------
-# Network
-# -------
-
-# Use Cloudflare DNS
-networksetup -setdnsservers Wi-Fi 1.1.1.1 1.0.0.1 2606:4700:4700::1111 2606:4700:4700::1001
