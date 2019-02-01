@@ -16,6 +16,7 @@ gradle-completion
 groovy
 go
 kotlin
+kustomize
 makedepend
 maven
 mercurial
