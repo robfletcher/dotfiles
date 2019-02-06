@@ -14,7 +14,6 @@ jbake
 jq
 libdvdcss
 mas
-md5sha1sum
 micro
 midnight-commander
 optipng
@@ -30,3 +29,4 @@ tree
 unrar
 wget
 xmlstarlet
+yq
