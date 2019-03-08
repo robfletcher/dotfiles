@@ -125,7 +125,7 @@
 
     #grumble
     ffs = "!git all && git commit --amend"
-	dad = !curl https://icanhazdadjoke.com/ && git add
+	dad = !curl -w \"\\n\" https://icanhazdadjoke.com/ && git add
 [color "diff-highlight"]
 	oldNormal = red bold
 	oldHighlight = red bold 52
