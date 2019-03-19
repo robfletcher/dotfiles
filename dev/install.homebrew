@@ -1,4 +1,4 @@
-nektos/tap/act
+act
 autoconf
 automake
 awscli
@@ -30,6 +30,7 @@ postgresql
 protobuf
 pup
 python
+recode
 redis
 ruby
 rust
