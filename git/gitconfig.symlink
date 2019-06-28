@@ -126,6 +126,8 @@
     #grumble
     ffs = "!git all && git commit --amend"
 	dad = !curl -w \"\\n\" https://icanhazdadjoke.com/ && git add
+	orphaned = "!f() { git checkout -q master && git fetch -q -p && git branch -vv | awk '/: gone]/{print $1}'; }; f"
+    prune-orphans = "!git orphaned | xargs !git branch -D"
 [color "diff-highlight"]
 	oldNormal = red bold
 	oldHighlight = red bold 52
