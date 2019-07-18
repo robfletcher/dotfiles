@@ -1,4 +1,0 @@
-POWERLEVEL9K_STATUS_OK_BACKGROUND=238
-POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(root_indicator context dir vcs background_jobs status)
-POWERLEVEL9K_DISABLE_RPROMPT=true
-POWERLEVEL9K_MODE='nerdfont-complete'
