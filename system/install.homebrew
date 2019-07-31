@@ -2,7 +2,7 @@ autojump
 bat
 bork
 coreutils
-curl
+curl-openssl
 ddate
 dos2unix
 findutils
