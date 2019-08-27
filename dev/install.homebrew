@@ -24,7 +24,7 @@ mercurial
 mkdocs
 mycli
 mysql
-node
+nvm
 pkg-config
 postgresql
 protobuf
