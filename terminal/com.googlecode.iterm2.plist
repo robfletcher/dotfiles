@@ -8033,7 +8033,7 @@
 			<key>Window Type</key>
 			<integer>13</integer>
 			<key>Working Directory</key>
-			<string>/Users/rfletcher</string>
+			<string>/Users/fletch</string>
 		</dict>
 	</array>
 	<key>NoSyncAllAppVersions</key>
@@ -8879,7 +8879,7 @@
 		</dict>
 	</dict>
 	<key>PrefsCustomFolder</key>
-	<string>/Users/rfletcher/.dotfiles_public/terminal</string>
+	<string>/Users/fletch/.dotfiles_public/terminal</string>
 	<key>PromptOnClose</key>
 	<true/>
 	<key>PromptOnQuit</key>

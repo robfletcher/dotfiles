@@ -1,7 +1,7 @@
 [include]
-    path = /Users/rfletcher/.gitconfig_local
+    path = /Users/fletch/.gitconfig_local
 [core]
-    excludesfile = /Users/rfletcher/.gitignore_global
+    excludesfile = /Users/fletch/.gitignore_global
     pager = "diff-so-fancy | less --tabs=4 -RFX"
 	editor = micro
 	autocrlf = input
