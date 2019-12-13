@@ -23,7 +23,7 @@ maven
 mercurial
 mkdocs
 mycli
-mysql
+mysql@5.7
 nvm
 pkg-config
 postgresql
