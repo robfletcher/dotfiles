@@ -11,6 +11,7 @@ cmake
 dpkg
 gcc
 gdub
+github/gh/gh
 git
 graphviz
 gradle-completion
