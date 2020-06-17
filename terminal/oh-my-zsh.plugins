@@ -1,5 +1,7 @@
 git-extras
 gradle
 history
+history-substring-search
 sudo
+zsh-autosuggestions
 zsh_reload
