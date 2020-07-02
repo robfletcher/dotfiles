@@ -7024,6 +7024,8 @@
 		<key>TB Is Shown</key>
 		<integer>1</integer>
 	</dict>
+	<key>NSWindow Frame NSColorPanel</key>
+	<string>0 163 224 275 0 0 1792 1097 </string>
 	<key>NSWindow Frame NSFontPanel</key>
 	<string>1235 65 445 381 0 0 1680 1027 </string>
 	<key>NSWindow Frame Preferences</key>
@@ -7031,7 +7033,7 @@
 	<key>NSWindow Frame SUStatusFrame</key>
 	<string>640 673 400 129 0 0 1680 1027 </string>
 	<key>NSWindow Frame SUUpdateAlert</key>
-	<string>530 476 620 392 0 0 1680 1027 </string>
+	<string>546 356 700 622 0 0 1792 1097 </string>
 	<key>NSWindow Frame SessionsPreferences</key>
 	<string>489 343 606 456 0 0 2560 1440 </string>
 	<key>NSWindow Frame SharedPreferences</key>
@@ -7039,9 +7041,9 @@
 	<key>NSWindow Frame UKCrashReporter</key>
 	<string>127 443 592 584 0 0 1680 1027 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>0 0 1680 1027 0 0 1680 1027 </string>
+	<string>0 0 1990 1042 0 0 1792 1097 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
-	<string>0 0 1022 1129 0 0 2560 1417 </string>
+	<string>0 15 1792 1042 0 0 2560 1440 </string>
 	<key>New Bookmarks</key>
 	<array>
 		<dict>
@@ -7404,8 +7406,6 @@
 			<integer>0</integer>
 			<key>Initial Text</key>
 			<string></string>
-			<key>Initial Use Transparency</key>
-			<true/>
 			<key>Jobs to Ignore</key>
 			<array>
 				<string>rlogin</string>
@@ -7700,15 +7700,15 @@
 			<key>Minimum Contrast</key>
 			<real>0.0</real>
 			<key>Mouse Reporting</key>
-			<true/>
+			<false/>
 			<key>Name</key>
 			<string>Default</string>
 			<key>Non Ascii Font</key>
-			<string>FuraMonoNerdFontCompleteM-Regular 18</string>
+			<string>JetBrainsMonoNerdFontComplete-Regular 18</string>
 			<key>Non-ASCII Anti Aliased</key>
 			<true/>
 			<key>Normal Font</key>
-			<string>InputMono-Regular 18</string>
+			<string>JetBrainsMonoNerdFontComplete-Regular 18</string>
 			<key>Option Key Sends</key>
 			<integer>0</integer>
 			<key>Prompt Before Closing 2</key>
@@ -8042,33 +8042,35 @@
 	</array>
 	<key>NoSyncAllAppVersions</key>
 	<array>
-		<string>3.3.5</string>
 		<string>3.3.0beta10</string>
 		<string>3.3.0beta11</string>
 		<string>3.3.3</string>
-		<string>3.3.0beta12</string>
 		<string>3.3.2beta1</string>
+		<string>3.3.0beta12</string>
 		<string>3.3.0beta13</string>
 		<string>3.3.8</string>
 		<string>3.3.1beta1</string>
+		<string>3.3.12</string>
 		<string>3.3.0beta15</string>
-		<string>3.3.6</string>
+		<string>3.3.11</string>
 		<string>3.3.0beta16</string>
 		<string>3.3.4</string>
 		<string>3.3.2</string>
+		<string>3.3.9</string>
 		<string>3.3.7</string>
 	</array>
 	<key>NoSyncBFPRecents</key>
 	<array>
 		<string>Input Mono</string>
-		<string>FuraMono Nerd Font Mono</string>
+		<string>JetBrainsMono Nerd Font Mono</string>
+		<string>JetBrainsMono Nerd Font</string>
 	</array>
 	<key>NoSyncFrame_SharedPreferences</key>
 	<dict>
 		<key>screenFrame</key>
-		<string>{{0, 0}, {2560, 1440}}</string>
+		<string>{{0, 0}, {1792, 1120}}</string>
 		<key>topLeft</key>
-		<string>{281, 776}</string>
+		<string>{274, 860}</string>
 	</dict>
 	<key>NoSyncHaveWarnedAboutIncompatibleSoftware</key>
 	<true/>
@@ -8079,7 +8081,7 @@
 	<key>NoSyncLastTipTime</key>
 	<real>507649654.36780298</real>
 	<key>NoSyncLaunchExperienceControllerRunCount</key>
-	<integer>65</integer>
+	<integer>71</integer>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile</key>
 	<true/>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile_selection</key>
@@ -8928,7 +8930,9 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2020-02-07T02:12:45Z</date>
+	<date>2020-07-02T16:55:58Z</date>
+	<key>SUUpdateGroupIdentifier</key>
+	<integer>323979496</integer>
 	<key>SUUpdateRelaunchingMarker</key>
 	<false/>
 	<key>SavePasteHistory</key>
@@ -8992,7 +8996,7 @@
 	<key>findRegex_iTerm</key>
 	<false/>
 	<key>iTerm Version</key>
-	<string>3.3.8</string>
+	<string>3.3.12</string>
 	<key>kCPKSelectionViewPreferredModeKey</key>
 	<integer>0</integer>
 	<key>kCPKSelectionViewShowHSBTextFieldsKey</key>
