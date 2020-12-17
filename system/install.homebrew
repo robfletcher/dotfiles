@@ -1,6 +1,5 @@
 autojump
 bat
-bork
 coreutils
 curl-openssl
 ddate
@@ -12,14 +11,12 @@ htop
 httpie
 httpstat
 hugo
-jbake
 jq
 libdvdcss
 mas
 micro
 midnight-commander
 optipng
-pkgdiff
 prettyping
 proselint
 readline
@@ -30,5 +27,4 @@ tldr
 tree
 unrar
 wget
-xmlstarlet
 yq
